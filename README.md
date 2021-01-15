@@ -55,16 +55,16 @@ Just Wink project objective is to detect & count how many members are in front o
 
 ## Requirements
 
-**Device:** Laptop/PC
-**OS:** Windows
+**Device:** Laptop/PC\
+**OS:** Windows\
 **Components:** In-built/External Camera
 
 
 ## Installation
 
-Step 1: Download [**Just Wink**](https://drive.google.com/file/d/1fhcXePD6KDTlNfemrL8xlzW0jM7umXo0/view?usp=sharing) zip file.
-Step 2: Extract _Just-Wink.zip_ file in windows.
-Step 3: Now you can see _Just-Wink_ folder in extracted location, Click it.
+Step 1: Download [**Just Wink**](https://drive.google.com/file/d/1fhcXePD6KDTlNfemrL8xlzW0jM7umXo0/view?usp=sharing) zip file.\
+Step 2: Extract _Just-Wink.zip_ file in windows.\
+Step 3: Now you can see _Just-Wink_ folder in extracted location, Click it.\
 Step 4: Search for _Just-Wink.exe_ file and click it. Have fun!!!
 
 
