@@ -49,7 +49,7 @@ Just Wink project objective is to detect & count how many members are in front o
 
 * [KivyMD](https://kivymd.readthedocs.io/en/latest/)
 * [OpenCV](https://opencv.org/)
-* [Buildozer](https://buildozer.readthedocs.io/en/latest/)
+* [PyInstaller](https://www.pyinstaller.org/)
 * [Haar Cascade](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 
