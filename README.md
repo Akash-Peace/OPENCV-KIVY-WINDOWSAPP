@@ -77,7 +77,7 @@ Usage of this project is to give a count of how many members are in front of the
 
 ## Screenshots
 
-View [Screenshots](https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/tree/main/Screenshots) here.
+View [Screenshots](https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/tree/main/Screenshots) here.
 
 
 <!-- LICENSE -->
