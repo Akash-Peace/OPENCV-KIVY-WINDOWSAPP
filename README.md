@@ -6,7 +6,7 @@
     <a href="https://kivy.org/#home"><strong>A Kivy Windows App</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1fhcXePD6KDTlNfemrL8xlzW0jM7umXo0/view?usp=sharing">Download</a>
+    <a href="https://drive.google.com/file/d/1lnDRZlmfm5E2U3aLnVL1h4zDeL7Z4Yfa/view?usp=sharing">Download</a>
     ·
     <a href="https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/issues">Report Bug</a>
     ·
@@ -62,7 +62,7 @@ Just Wink project objective is to detect & count how many members are in front o
 
 ## Installation
 
-Step 1: Download [**Just Wink**](https://drive.google.com/file/d/1fhcXePD6KDTlNfemrL8xlzW0jM7umXo0/view?usp=sharing) zip file. If _"Download anyway"_ button appears, Click it.\
+Step 1: Download [**Just Wink**](https://drive.google.com/file/d/1lnDRZlmfm5E2U3aLnVL1h4zDeL7Z4Yfa/view?usp=sharing) zip file. If _"Download anyway"_ button appears, Click it.\
 Step 2: Extract _Just-Wink.zip_ file in windows.\
 Step 3: Now you can see _Just-Wink_ folder in extracted location, Click it.\
 Step 4: Search for _Just-Wink.exe_ file and click it. Have fun!!!
