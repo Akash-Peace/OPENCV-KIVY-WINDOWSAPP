@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/blob/main/winkicon.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/blob/main/images/winkicon.png" alt="Logo" width="150" height="150">
   <h3 align="center">JUST WINK</h3>
   <p align="center">
     <a href="https://kivy.org/#home"><strong>A Kivy Windows App</strong></a>
