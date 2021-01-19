@@ -26,6 +26,7 @@
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -74,6 +75,9 @@ Step 4: Search for _Just-Wink.exe_ file and click it. Have fun!!!
 Usage of this project is to give a count of how many members are in front of the camera and if anyone winks it will be detected and play a function.
 
 
+## Screenshots
+
+View [Screenshots](https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/tree/main/Screenshots) here.
 
 
 <!-- LICENSE -->
