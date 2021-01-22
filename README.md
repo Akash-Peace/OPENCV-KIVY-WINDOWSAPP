@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Just Wink project objective is to detect & count how many members are in front of the camera and following the project name, it detects wink. As it is mentioned, I decided to present this project as a windows application, particularly using [Kivy framework](https://kivy.org/#home) combining with [OpenCV](https://opencv.org/). Just Wink is an offline application, So it is _100%_ safe to use. This project is licensed by [MIT](https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/blob/main/LICENSE) and it is free to use, fork, modify and distribute. If you like this project give a _star_ and follow me.
+Just Wink project objective is to detect & count how many members are in front of the camera and following the project name, it detects wink. As mentioned, I decided to present this project as a windows application, particularly using the [Kivy framework](https://kivy.org/#home) combining with [OpenCV](https://opencv.org/). Just Wink is an offline application, So it is _100%_ safe to use. [MIT](https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute. If you like this project, give a _star_ and follow me.
 
 ## Built With
 
