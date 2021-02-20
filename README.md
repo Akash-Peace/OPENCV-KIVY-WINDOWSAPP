@@ -22,12 +22,13 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#powered-by">Powered by</a></li>
+    <li><a href="#powered-by">Powered By</a></li>
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#my-system-spec">My System Spec</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -46,7 +47,7 @@ Just Wink project objective is to detect & count how many members are in front o
 * [Kv language](https://kivy.org/doc/stable/guide/lang.html)
 
 
-## Powered by
+## Powered By
 
 * [KivyMD](https://kivymd.readthedocs.io/en/latest/)
 * [OpenCV](https://opencv.org/)
@@ -86,11 +87,25 @@ View [Screenshots](https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/tree/ma
 Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/blob/main/LICENSE) for more information.
 
 
+## My System Spec
+
+**OS:** [MX Linux](https://mxlinux.org/)\
+**Model:** Acer Aspire 5 A515-51G\
+**Processor:** Intel i5 7th gen\
+**Ram:** DDR4 8gb\
+**Disk:** HDD 100gb
+
 
 <!-- CONTACT -->
 ## Contact
 
-<strong>Hi, I'm Akash.A, Computer Science Engineer.</strong>
+Akash.A,\
+Rajalakshmi Engineering College,\
+Computer Science Engineer,\
+akashcse2000@gmail.com,\
+8608550403,\
+Chennai.
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Akash-Peace)  
 
